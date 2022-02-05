@@ -1,6 +1,6 @@
 # Simulating_Pandemic_Flu_Spread
 
-## Below is a brief description of all files in the folder
+Below is a brief description of all files in the folder
 
 ## README.doc : 
 Introduction to the project folder
