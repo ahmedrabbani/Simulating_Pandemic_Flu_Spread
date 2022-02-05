@@ -25,7 +25,18 @@ The main questions that we would like to answer for this project include:
 * How long does the peak last?
 * What precautionary measures can we recommend containing the spread of the pandemic?
 
+To answer these questions, we divide our simulation approach into three parts:
 
+1. Building a deterministic simulation model with the parameters given in the problem description,
+such as probability of being infected, time for recovery, and capable infection scope of every
+infected kid, and analyzing simulation output.
+2. Creating a stochastic model to treat the key parameters given in the problem as unknown,
+introduce random variables as estimators for those parameters, and simulate the results for
+different distributions of the random variables in multiple replications.
+3. Performing scenario and sensitivity analysis to determine the impact of e.g. class size, infection
+rate, required recovery time to develop immunity. Based on this, we can recommend relevant
+protection and precaution measures, e.g. isolation policy, optimal class size, intervention activity,
+etc. to contain the pandemic.
 
 ## Methodology:
 
