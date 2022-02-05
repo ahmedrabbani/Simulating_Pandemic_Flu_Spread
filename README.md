@@ -38,11 +38,21 @@ rate, required recovery time to develop immunity. Based on this, we can recommen
 protection and precaution measures, e.g. isolation policy, optimal class size, intervention activity,
 etc. to contain the pandemic.
 
-## Methodology:
-
-
 ## Selected Results
 Selected results from employed methodology are shown below. For full results, please refer to the uploaded report. Thank you. 
+
+### Deterministic Simulation
+![image](https://user-images.githubusercontent.com/70823162/152627708-2c8bfae1-32e4-43e8-b1d2-724bd298beb5.png)
+
+### Stochastic Simulation
+![image](https://user-images.githubusercontent.com/70823162/152627724-f387d1f2-67c4-46bd-9817-b1d71d976274.png)
+![image](https://user-images.githubusercontent.com/70823162/152627735-aa247361-309a-4b64-88bf-625511e9e6e1.png)
+![image](https://user-images.githubusercontent.com/70823162/152627740-d0cbfbdf-e4d3-4f31-8c88-9c29375bd055.png)
+
+### Sensitivity Analysis
+![image](https://user-images.githubusercontent.com/70823162/152627757-89a7e51b-0032-4611-83b1-940f02d92f45.png)
+![image](https://user-images.githubusercontent.com/70823162/152627761-94a0f6a2-732a-4fa2-aba5-05140cace1ef.png)
+![image](https://user-images.githubusercontent.com/70823162/152627769-da5fe6c7-d2c0-47ad-9178-0615af2f6ace.png)
 
 ## Code Description
 Introduction to the project folder
