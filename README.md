@@ -13,16 +13,17 @@ deterministic model, we assume that, as in the problem description, any infected
 for 3 consecutive days. On any of the three days, any individual susceptible kid has a chance of 0.02 of
 getting infected by the infectious person. After 3 days of infection, the infected kid will fully recover and
 is immune to the flu.
+
 The main questions that we would like to answer for this project include:
-• How can we model the development of the infection chain initiated by Tommy over time?
-• What is the distribution of student infections each day?
-• How do we estimate the expected number of kids infected each day?
-• What is the maximum number of kids that can stay infected on any given day?
-• How long will the flu spread last among the students?
-2
-• When does the number of infections reach the peak?
-• How long does the peak last?
-• What precautionary measures can we recommend containing the spread of the pandemic?
+
+* How can we model the development of the infection chain initiated by Tommy over time?
+* What is the distribution of student infections each day?
+* How do we estimate the expected number of kids infected each day?
+* What is the maximum number of kids that can stay infected on any given day?
+* How long will the flu spread last among the students?
+* When does the number of infections reach the peak?
+* How long does the peak last?
+* What precautionary measures can we recommend containing the spread of the pandemic?
 
 
 
